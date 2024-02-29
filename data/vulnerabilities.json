@@ -1,0 +1,41 @@
+[ptr-fingerprint] [dns] [info] 122.90.43.195.in-addr.arpa ["vsegda-da.com."]
+[ptr-fingerprint] [dns] [info] 122.90.43.195.in-addr.arpa ["vsegda-da.com."]
+[http-missing-security-headers:strict-transport-security] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:x-content-type-options] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:content-security-policy] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:permissions-policy] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:x-frame-options] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:referrer-policy] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:clear-site-data] [http] [info] http://185.65.148.243:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:permissions-policy] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:x-frame-options] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:referrer-policy] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:content-security-policy] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:clear-site-data] [http] [info] https://195.43.90.122/
+[http-missing-security-headers:permissions-policy] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:x-content-type-options] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:clear-site-data] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:strict-transport-security] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:content-security-policy] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:x-frame-options] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://185.65.148.243:80
+[http-missing-security-headers:referrer-policy] [http] [info] http://185.65.148.243:80
+[external-service-interaction] [http] [info] http://185.65.148.243:80
+[external-service-interaction] [http] [info] http://195.43.90.122:80
+[ssl-issuer] [ssl] [info] 195.43.90.61:443 ["GlobalSign nv-sa"]
+[ssl-dns-names] [ssl] [info] 195.43.90.61:443 ["*.homecredit.ru","homecredit.ru"]
+[wildcard-tls] [ssl] [info] 195.43.90.61:443 ["CN: *.homecredit.ru","SAN: [*.homecredit.ru homecredit.ru]"]
+[tls-version] [ssl] [info] 195.43.90.61:443 ["tls12"]

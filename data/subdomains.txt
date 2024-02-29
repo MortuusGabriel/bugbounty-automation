@@ -1,0 +1,7 @@
+home.bank
+homebank.ru
+ns.home.bank
+ns0.home.bank
+ns1.home.bank
+payment.homebank.ru
+vkteams.home.bank
